@@ -1,2 +1,2 @@
 # johnmatthewcastro.github.io
-A website that hosts and exhibits john matthew's projects
+A website that hosts and exhibits John's projects
